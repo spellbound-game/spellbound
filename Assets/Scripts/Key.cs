@@ -31,6 +31,13 @@ public class Key : MonoBehaviour
 
     	}
     }
+    void Update(){
+        if (has_key){
+            gameObject.GetComponent<ParticleSystem>().enableEmission = true;
+        }else{
+            gameObject.GetComponent<ParticleSystem>().enableEmission = false;;
+        }
+    }
     //become inactive
     void OnDisable(){
     	if (has_key){

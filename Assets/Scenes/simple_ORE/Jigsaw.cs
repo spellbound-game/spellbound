@@ -228,7 +228,7 @@ public class Jigsaw : MonoBehaviour
 
 
     	if (total_chunks < 0){
-    		current_chunk = end[0];
+    		current_chunk = end[rand1.Next(0, end.Count)];
     		checklist = MakeList(current_chunk, current_anch);
     	
 
@@ -269,7 +269,7 @@ public class Jigsaw : MonoBehaviour
 
     	////////////////
     	//if we are leftward branching, rotate the chunk, and set the anchor to name "left"
-    	if(is_left == true ){
+    	if(is_left == true || current_anch.name == "left" ){
     		x.transform.RotateAround(current_anch.transform.position, Vector3.up, 180);
 
     		x.transform.Find("anchor1").gameObject.name = "left";
@@ -446,7 +446,7 @@ public class Jigsaw : MonoBehaviour
             if (!placed_Bkey && !placed_Rkey){
             	//Debug.Log("I ran");
                 int rk = rand1.Next(0,2);
-                Debug.Log(rk);
+                //Debug.Log(rk);
                 if (rk == 1){
                     /////////
                     //place blue key
