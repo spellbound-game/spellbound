@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 91a2a14e413673f4ab3aecc84bd337b7
+  - enabled: 1
+    path: Assets/Scenes/Leaderboard.unity
+    guid: 6ecb24dd1b2402e4bb430079d2d45030
+  - enabled: 1
+    path: Assets/Scenes/FOREST/Easy/forest_easy_1.unity
+    guid: 17e2fd1d71a4fd44998d169da83129ac
+  - enabled: 1
+    path: Assets/Scenes/FOREST/Easy/forest_easy_2.unity
+    guid: 3c0b5e64b72d33543b9974601118ada6
+  - enabled: 1
+    path: Assets/Scenes/FOREST/Easy/forest_easy_3.unity
+    guid: b0facf9594444f0479a4badef4f1011b
+  - enabled: 1
+    path: Assets/Scenes/FOREST/Easy/forest_easy_4.unity
+    guid: d6b5c5070a9225048b7d9a5504253973
+  - enabled: 1
+    path: Assets/Scenes/FOREST/Easy/forest_easy_5.unity
+    guid: a82fb035efa978347a8eee6150658235
+  - enabled: 1
+    path: Assets/Scenes/FOREST/Medium/forest_medium_2.unity
+    guid: 8edecb5f70f42084c8be3db5aa135553
+  - enabled: 1
+    path: Assets/Scenes/FOREST/Medium/forest_medium_3.unity
+    guid: ba9160d90a9064d4db95610e2d396ec5
+  - enabled: 1
+    path: Assets/Scenes/FOREST/Medium/forest_medium_1.unity
+    guid: 067f85f9ddddb6f409d23c02897d33ba
+  - enabled: 1
+    path: Assets/Scenes/FOREST/Medium/forest_medium_4.unity
+    guid: 821f58de1b5789041a082b2e6d5647c2
+  - enabled: 1
+    path: Assets/Scenes/FOREST/Hard/forest_hard_2.unity
+    guid: f73d9aa107f285e44ba4e738d3851d81
+  - enabled: 1
+    path: Assets/Scenes/FOREST/Hard/forest_hard_1.unity
+    guid: c99516201eb903c41b8d093ddb32bcaa
+  - enabled: 1
+    path: Assets/Scenes/FOREST/Hard/forest_hard_3.unity
+    guid: 5a1ac4e40543d344aa0c06f59255b807
+  - enabled: 1
+    path: Assets/Scenes/BOSSES/boss1.unity
+    guid: 6b0e1c23504ae1341847592845091fcd
+  - enabled: 1
+    path: Assets/Scenes/BOSSES/boss3.unity
+    guid: 13e5e26c0b5cdfd4e92f8625328ac806
+  - enabled: 1
+    path: Assets/Scenes/CAVE/easy/cave_easy_1.unity
+    guid: b43555d06b18f9840a878262d9ade5f5
+  - enabled: 1
+    path: Assets/Scenes/CAVE/medium/cave_medium_1.unity
+    guid: 40aca1a67bac3504b9e43d455af920b2
+  - enabled: 1
+    path: Assets/Scenes/CAVE/Hard/cave_hard_2.unity
+    guid: b84950969db835a40b6d2d8d3b5d3558
+  - enabled: 1
+    path: Assets/Scenes/CAVE/Hard/cave_hard_1.unity
+    guid: b676a22cb04f0aa4ea3bcab7aed2a2db
+  - enabled: 1
+    path: Assets/Scenes/CAVE/Hard/cave_hard_3.unity
+    guid: af346113fa532884d8acedbbc31c7e96
+  - enabled: 1
+    path: Assets/Scenes/BOSSES/boss2.unity
+    guid: 0bd2c2cc7e65e3d4ba7f420a790593e6
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Level_select.unity
+    guid: 0d7af43143eb3b8459ed0c66ac6adba7
+  - enabled: 1
+    path: Assets/Scenes/Controls.unity
+    guid: a25d723b22fab924fbb1f15e863bd891
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 231327b7103fdb04883362b8473fd2f5
+  - enabled: 1
+    path: Assets/Prefabs/Arena/arena1.unity
+    guid: b0223f8c08e278448acd14d1abc0c30d
+  - enabled: 1
+    path: Assets/Prefabs/Arena/arena2.unity
+    guid: 4c5b71d48efce0c4b83a411a759f0664
+  - enabled: 1
+    path: Assets/Prefabs/UI/name_input.unity
+    guid: 043e9f7cf08f42941ab5650368a0a67b
+  - enabled: 1
+    path: Assets/Scenes/FOREST/Hard/forest_hard_5.unity
+    guid: 6bdebaa47652c4010b536d040f86a697
+  - enabled: 1
+    path: Assets/Scenes/simple_ORE/Test1.unity
+    guid: b0fd00b4d1c6cd44a859940cf656fb35
+  m_configObjects: {}

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Monster
+  - Hazard
+  - bullet
+  - Monster2
+  - bull
+  - Item
+  - Haz
+  - ignore
+  - collectable
+  - anchor
+  - branch
+  - Rkey
+  - Lkey
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BlockingLayer
+  - Player
+  - Menu
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 340739541
+    locked: 0
+  - name: units
+    uniqueID: 1663690465
+    locked: 0
+  - name: floor
+    uniqueID: 214116081
+    locked: 0
