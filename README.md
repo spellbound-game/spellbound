@@ -1,4 +1,5 @@
 # Spellbound v525
+![GitHub repo size](https://img.shields.io/github/repo-size/spellbound-game/spellbound)
 ### Neil Nicholson, Porter Libby, Ethan Rountree, Aiden Newman
 This repo is the main source code for the Spellbound game, created in Unity. All assets in the game are original (created by our team), or are placeholders for original content. 
 
